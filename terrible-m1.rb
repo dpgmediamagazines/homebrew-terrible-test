@@ -7,7 +7,7 @@ class TerribleM1 < Formula
   
     def install
         bin.install "terrible-m1"
-        ohai "The terrible client is installed on your machine. Run `terrible --help` for usage info, or read the online docs."
+        ohai "The terrible M1 client is installed on your machine. Run `terrible --help` for usage info, or read the online docs."
     end
   end
   
