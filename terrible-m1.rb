@@ -1,4 +1,4 @@
-class Terriblem1 < Formula
+class TerribleM1 < Formula
     homepage "https://terrible.dpgmm.tech/"
     url "https://terrible.dpgmm.tech/download/terrible-darwin-m1.tar.gz"
     version "2.71.0"
