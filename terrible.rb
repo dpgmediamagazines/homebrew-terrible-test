@@ -1,6 +1,6 @@
 class Terrible < Formula
-  homepage "https://terrible.dpgmm.tech/"
-  url "https://terrible.dpgmm.tech/download/terrible-darwin.tar.gz"
+  homepage "https://terrible.test.dpgmm.tech/"
+  url "https://terrible.test.dpgmm.tech/download/terrible-darwin.tar.gz"
   version "d1125634e8dce563ba834e83be950895768d39b0"
   sha256 "4eb14cedd0cbaaddba575ca8c8a188f5402b219931db98af3980f40973dff138"
   #sha256 "4eb14cedd0cbaaddba575ca8c8a188f5402b219931db98af3980f40973dff138"
